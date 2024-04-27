@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "username": "sairam",
+      "usermobile": "998552109",
+      "userpassword": "sairam",
+      "id": "c9fe"
+    },
+    {
+      "username": "sai",
+      "usermobile": "998552100",
+      "userpassword": "sudhakar",
+      "id": "42b5"
+    }
+  ],
+  "RegisterDetails": [
+    {
+      "id": "3b08",
+      "username": "sairam",
+      "usermobile": "9985521109",
+      "userpassword": "ahsgysgd"
+    },
+    {
+      "id": "645d",
+      "username": "sairam",
+      "usermobile": "9985521109",
+      "userpassword": "jasim",
+      "role": "customer"
+    },
+    {
+      "id": "fd5a",
+      "username": "",
+      "usermobile": "",
+      "userpassword": "",
+      "role": "customer"
+    },
+    {
+      "id": "fe84",
+      "username": "",
+      "usermobile": "",
+      "userpassword": "",
+      "role": "customer"
+    },
+    {
+      "id": "9fc4",
+      "username": "",
+      "usermobile": "",
+      "userpassword": "",
+      "role": "customer"
+    }
+  ]
+}
